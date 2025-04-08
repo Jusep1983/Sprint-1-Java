@@ -1,0 +1,10 @@
+Exercici 1:
+
+Suposem que volem crear una classe anomenada Calculadora que tingui mètodes per realitzar operacions bàsiques com suma, resta, multiplicació i divisió. Anem a escriure proves abans d'implementar la funcionalitat:
+
+Crea una classe de prova anomenada CalculadoraTest.
+Escriu les proves per verificar els mètodes sumar, restar, dividir i multiplicar de la calculadora.
+Executa les proves. Haurien de fallar, ja que encara no hem implementat els mètodes a la classe Calculadora.
+Crea una classe Calculadora que contingui els mètodes especificats per les proves.
+Executa les proves.
+Itera sobre el procés: Després de cada iteració, continua el procés de TDD, reescriu les proves, refactoritza el codi si és necessari i repeteix el cicle de desenvolupament per millorar i ampliar la funcionalitat de la classe Calculadora.
